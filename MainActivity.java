@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void add3(View view){
         display(3);
-        //hello
     }
 
     public void add2(View view){
